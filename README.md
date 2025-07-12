@@ -45,7 +45,7 @@ Run the script:
 python main.py
 
 👤 Created by Janani R
-yaml
+
 
 
 ---
