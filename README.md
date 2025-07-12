@@ -29,15 +29,21 @@ face_attendance_system/
 
 
 ## 🛠 How to Run
+
 1. Clone the repo:
+   
 git clone https://github.com/jananiraja3110/face-attendance-system.git
 
 Install requirements:
+
 pip install -r requirements.txt
+
 Add user images to the images/ folder (filename = person's name)
 
 Run the script:
+
 python main.py
+
 👤 Created by Janani R
 yaml
 
